@@ -1,0 +1,10 @@
+name = "fry-words"
+type = "webpack"
+account_id = "76f7f7c1d3fc1dbdd0c6b8c550725352"
+workers_dev = true
+route = ""
+zone_id = ""
+
+[site]
+bucket = "./public"
+entry-point = "workers-site"
